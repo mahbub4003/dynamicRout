@@ -1,0 +1,40 @@
+export const blogs = [
+    {
+        id : 1,
+        title : "HTML",
+        body: "Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim."
+    },
+    {
+        id: 2,
+        title: "CSS",
+        body: "Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim."
+    },
+    {
+        id: 3,
+        title: "JS",
+        body: "Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim."
+    }, 
+    {
+        id: 4,
+        title: "ES6",
+        body: "Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim."
+    },
+    {
+        id: 5,
+        title: "REACT",
+        body: "Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim."
+    },
+    {
+        id: 6,
+        title: "NODE",
+        body: "Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim."
+    },
+    {
+        id: 7,
+        title: "REDUX",
+        body: "Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim.Fugiat incididunt non cupidatat sint dolore minim. Culpa ut do consectetur anim consectetur. Ullamco ea nulla nulla voluptate amet sit reprehenderit deserunt enim."
+    },
+
+
+
+]
